@@ -19,6 +19,12 @@ dist-ssr
 dispatch_log.json
 security_audit.json
 
+# Thesis & Presentation Documents (Local only)
+PROJECT_REPORT_THESIS.*
+VIVA_PRESENTATION_SLIDES.*
+*.pdf
+
+
 # Python
 __pycache__/
 *.py[cod]
