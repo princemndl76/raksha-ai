@@ -1,0 +1,13 @@
+{
+  "eq_max_magnitude": 0.4407,
+  "flood_severity_score": 0.4108,
+  "weather_high_count": 0.0781,
+  "weather_max_precip": 0.0369,
+  "weather_max_wind_gust": 0.0163,
+  "eq_recent_hours": 0.0062,
+  "eq_avg_magnitude": 0.0038,
+  "weather_max_wind_speed": 0.0032,
+  "flood_count": 0.0026,
+  "weather_locations_monitored": 0.0009,
+  "eq_count": 0.0004
+}

@@ -1,0 +1,28 @@
+{
+  "feature_columns": [
+    "eq_count",
+    "eq_max_magnitude",
+    "eq_avg_magnitude",
+    "eq_recent_hours",
+    "flood_count",
+    "flood_severity_score",
+    "weather_max_precip",
+    "weather_max_wind_gust",
+    "weather_max_wind_speed",
+    "weather_high_count",
+    "weather_locations_monitored"
+  ],
+  "weather_anomaly_columns": [
+    "weather_max_precip",
+    "weather_max_wind_gust",
+    "weather_max_wind_speed"
+  ],
+  "regressor_mae": 2.379,
+  "regressor_r2": 0.972,
+  "class_labels": [
+    "CRITICAL",
+    "HIGH",
+    "LOW",
+    "MEDIUM"
+  ]
+}
