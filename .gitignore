@@ -22,6 +22,8 @@ security_audit.json
 # Thesis & Presentation Documents (Local only)
 PROJECT_REPORT_THESIS.*
 VIVA_PRESENTATION_SLIDES.*
+RAKSHAK_*.*
+generate_pdfs.py
 *.pdf
 
 
